@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="font_size_labels">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+
+    <string-array name="fond_size_values">
+        <item>14</item>
+        <item>18</item>
+        <item>24</item>
+    </string-array>
+
+</resources>
